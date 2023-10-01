@@ -2,7 +2,7 @@
 
 # How to Use
 
-Inject when inside the game lobby. Currently dosen't work outside because of nullchecks(Will fix mabye).
+Inject when inside the game lobby. Currently dosen't work outside because of nullchecks(Will fix mabye). Home to open / close the menu.
 
 # Features
 Aimbot
